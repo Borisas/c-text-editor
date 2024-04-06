@@ -1,0 +1,10 @@
+core.cpp
+m
+testfile.txt
+vm
+vm.dSYM
+vm.dSYM/*
+main.dSYM/*
+main.dSYM
+.DS_Store
+.DS_Store/*

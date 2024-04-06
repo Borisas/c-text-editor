@@ -1,0 +1,1 @@
+gcc src/main.c src/FileBuffer.c -o m -lncurses
